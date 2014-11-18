@@ -1,0 +1,5 @@
+INSTALLATION
+------------
+In order to install Adi JavaScript Tools, copy the Adi 
+directory to place when you have libraries of vendors, 
+and include Adi/init.php file in your project.
